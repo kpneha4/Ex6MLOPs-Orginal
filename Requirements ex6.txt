@@ -1,0 +1,7 @@
+git config --global user.name "kpneha4"
+git config --global user.email "kpneha4@gmail.com"
+git clone https:------
+cd file name
+git add
+git commit -m "ml added"
+git push origin main
